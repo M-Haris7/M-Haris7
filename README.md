@@ -1,6 +1,5 @@
 
-# Haris
-
+#👋 Hi, I'm Haris
 **AI Engineer | LLM Systems | RAG & Agent Architect**
 
 I build production-grade LLM systems with measurable impact.
