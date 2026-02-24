@@ -1,6 +1,3 @@
-Here’s your **metrics-heavy, recruiter-optimized** GitHub profile README — impact-driven, quantified, and results-focused.
-
----
 
 # Haris
 
